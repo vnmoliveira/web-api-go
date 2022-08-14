@@ -3,7 +3,8 @@
 
 1 - Usar o Gin
 
-- Para criar o server e também ajuda na hora de criar as rotas, também ajuda na hora de instanciar os controlers e devolver respostas para o usuário.
+- Para criar o server e também ajuda na hora de criar as rotas.
+- Ajudar a instanciar os controlers e devolver respostas para o usuário.
 
 -> go get github.com/gin-gonic/gin
 
